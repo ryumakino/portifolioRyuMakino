@@ -1,0 +1,170 @@
+*{
+margin: 0px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body{
+width: 100%;
+height: 100%;
+background-color: #1B263B;
+}
+
+header{
+width: 100%;
+height: 400px;
+background-color: #1B263B;
+}
+
+.header_cabeçalho{
+width: 100%;
+height: 80px;
+display: flex;
+justify-content: space-between;
+background-color: #0D1B2A;
+}
+
+.cabeçalho_titulo{
+color: #E9E9E9;
+font-size: 20px;
+margin: 20px 0px 0px 50px;
+}
+
+.cabeçalho_naveBar{
+font-size: 20px;
+margin: 0px 50px 0px 0px;
+display: flex;
+justify-content: space-between;
+}
+
+.Home{
+    padding: 20px 30px 0px 30px;
+    text-decoration: none;
+    color: #E0E1DD;
+  }
+  
+  .Home:hover{
+    background-color: #1B263B;
+  }
+
+  .Cursos{
+    padding: 20px 30px 0px 30px;
+    text-decoration: none;
+    color: #E0E1DD;
+  }
+  
+  .Cursos:hover{
+    background-color: #1B263B;
+  }
+
+.disciplinas{
+    width: 90%;
+    height: 400px;
+    margin: 100px 100px 0px 50px;
+   
+
+}
+
+.disciplinas_texto{
+    color: #E0E1DD;
+    height: 10%;
+    width: 300px;
+    padding: 80px 0px 0px 50px;
+}
+
+.disciplinas_icones{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.filosofia{
+padding: 20px;
+width: 225px;
+height: 200px;
+background-color:#0D1B2A;
+cursor: pointer;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-right: 50px;
+text-decoration: none;
+color: #E0E1DD;
+}
+
+.filosofia:hover{
+background-color: #778DA9;
+}
+
+.CyberFisico{
+padding: 20px;
+width: 225px;
+height: 200px;
+background-color:#0D1B2A;
+cursor: pointer;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+margin-right: 50px;
+text-decoration: none;
+color: #E0E1DD;
+}
+
+.CyberFisico:hover{
+background-color: #778DA9;
+}
+
+.RA{
+  padding: 20px;
+  width: 225px;
+  height: 200px;
+  background-color:#0D1B2A;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-right: 50px;
+  text-decoration: none;
+color: #E0E1DD;
+}
+.RA:hover{
+background-color: #778DA9;
+}
+
+.Matematica{
+  padding: 20px;
+  width: 225px;
+  height: 200px;
+  background-color:#0D1B2A;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 50px;
+  text-align: center;
+  text-decoration: none;
+color: #E0E1DD;
+}
+.Matematica:hover{
+background-color: #778DA9;
+}
+
+.ExperC{
+padding: 20px;
+width: 225px;
+height: 200px;
+background-color:#0D1B2A;
+cursor: pointer;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-right: 50px;
+text-align: center;
+text-decoration: none;
+color: #E0E1DD;
+}
+.ExperC:hover{
+background-color: #778DA9;
+}
